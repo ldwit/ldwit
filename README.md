@@ -9,7 +9,7 @@ Passionate, curious, proactive IT professional with a comprehensive skill set in
 * 🌍  I'm based in Aubrey, TX
 * 🖥️  See my portfolio at [My Portfolio](http://www.ldwit.com)
 * ✉️  You can contact me at [laterral.williams@ldwit.com](mailto:laterral.williams@ldwit.com)
-* 🧠  I'm currently Studying for Security+
+* 🧠  I'm currently Studying Linux
 
 
 ### Socials
