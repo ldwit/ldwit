@@ -4,7 +4,7 @@
 
 ---
 
-Passionate, curious, and proactive IT professional with a strong foundation in IT support. Known for delivering excellent client service, leveraging documentation for efficient issue resolution, and translating technical jargon into clear, actionable information. Experienced in leadership, communication, and promoting secure computing environments.
+Passionate, curious, proactive IT professional with a comprehensive skill set in IT support. A proven track record in client support, proficient in utilizing existing documentation for issue resolution and complimentary customer service skills. Adept at conveying technical information, providing leadership, and contributing to a secure computing environment.
 
 ---
 
