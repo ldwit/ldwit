@@ -1,11 +1,10 @@
+# 🖥️ Initializing Profile... ✅ Meet LaTerral Williams
 
-# Hi there! 👋 I'm LaTerral Williams
-
-### 👨‍💻 IT Support Specialist | Tech Enthusiast | Lifelong Learner
+### IT Support Specialist  |  Cloud Curious  |  Committed to Learning
 
 ---
 
-🎯 Passionate, curious, and proactive IT professional with a strong foundation in IT support. Known for delivering excellent client service, leveraging documentation for efficient issue resolution, and translating technical jargon into clear, actionable information. Experienced in leadership, communication, and promoting secure computing environments.
+Passionate, curious, and proactive IT professional with a strong foundation in IT support. Known for delivering excellent client service, leveraging documentation for efficient issue resolution, and translating technical jargon into clear, actionable information. Experienced in leadership, communication, and promoting secure computing environments.
 
 ---
 
