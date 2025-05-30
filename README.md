@@ -47,10 +47,10 @@ Passionate, curious, proactive IT professional with a comprehensive skill set in
 
 <div align="center">
   <a href="https://github.com/ldw16/GameDayScheduleAPI">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ldw16&repo=GameDayScheduleAPI&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ldwit&repo=GameDayScheduleAPI&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
   </a>
   <a href="https://github.com/ldw16/GameDayNotificationApp">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ldw16&repo=GameDayNotificationApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ldwit&repo=GameDayNotificationApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
   </a>
 </div>
 
@@ -58,9 +58,9 @@ Passionate, curious, proactive IT professional with a comprehensive skill set in
 
 <div align="center">
   <a href="https://github.com/ldw16/NFLDataLake">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ldw16&repo=NFLDataLake&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ldwit&repo=NFLDataLake&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
   </a>
   <a href="https://github.com/ldw16/WeatherDashboardDemo">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ldw16&repo=WeatherDashboardDemo&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ldwit&repo=WeatherDashboardDemo&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
   </a>
 </div>
