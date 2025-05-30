@@ -34,11 +34,11 @@ Passionate, curious, proactive IT professional with a comprehensive skill set in
 ## 📊 GitHub Stats
 
 <a href="https://github.com/ldw16">
-  <img src="https://github-readme-stats.vercel.app/api?username=ldw16&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="ldw16's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ldwit&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="ldw16's GitHub stats" />
 </a>
 
 <a href="https://github.com/ldw16">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldw16&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldwit&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
 
 ---
