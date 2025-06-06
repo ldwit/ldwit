@@ -18,10 +18,10 @@ Passionate, curious, proactive IT professional with a comprehensive skill set in
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/ldw16" target="_blank" rel="noreferrer">
+  <a href="https://github.com/ldwit" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" width="32" height="32" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/ltwilliams-tech" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/ldwit" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="32" height="32" alt="LinkedIn" />
   </a>
   <a href="https://dev.to/ldwit" target="_blank" rel="noreferrer">
