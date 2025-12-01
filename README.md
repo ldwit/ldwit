@@ -33,11 +33,11 @@ Passionate, curious, proactive IT professional with a comprehensive skill set in
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/ldw16">
-  <img src="https://github-readme-stats.vercel.app/api?username=ldwit&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="ldw16's GitHub stats" />
+<a href="https://github.com/ldwit">
+  <img src="https://github-readme-stats.vercel.app/api?username=ldwit&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="ldwit's GitHub stats" />
 </a>
 
-<a href="https://github.com/ldw16">
+<a href="https://github.com/ldwit">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldwit&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
 
@@ -46,10 +46,10 @@ Passionate, curious, proactive IT professional with a comprehensive skill set in
 ## 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/ldw16/GameDayScheduleAPI">
+  <a href="https://github.com/ldwit/GameDayScheduleAPI">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ldwit&repo=GameDayScheduleAPI&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
   </a>
-  <a href="https://github.com/ldw16/GameDayNotificationApp">
+  <a href="https://github.com/ldwit/GameDayNotificationApp">
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ldwit&repo=GameDayNotificationApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
   </a>
 </div>
@@ -57,10 +57,10 @@ Passionate, curious, proactive IT professional with a comprehensive skill set in
 <br/><br/><br/><br/><br/>
 
 <div align="center">
-  <a href="https://github.com/ldw16/NFLDataLake">
+  <a href="https://github.com/ldwit/NFLDataLake">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ldwit&repo=NFLDataLake&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
   </a>
-  <a href="https://github.com/ldw16/WeatherDashboardDemo">
+  <a href="https://github.com/ldwit/WeatherDashboardDemo">
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ldwit&repo=WeatherDashboardDemo&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
   </a>
 </div>
