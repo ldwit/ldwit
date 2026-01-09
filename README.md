@@ -80,7 +80,7 @@ providing leadership, and contributing to a secure computing environment.
 
 ---
 
-## 🟩 cd featured_projects/
+## 🟩 cd past_projects/
 
 - [`./GameDayNotificationApp`](https://github.com/ldwit/GameDayNotificationApp)  
   → Real-time NBA/NFL notifications (AWS + Python)
