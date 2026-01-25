@@ -1,6 +1,6 @@
 ## 💻 ldwit@github:~$ cat README.md
 
-```
+```text
 ██╗     ██████╗ ██╗    ██╗██╗████████╗
 ██║     ██╔══██╗██║    ██║██║╚══██╔══╝
 ██║     ██║  ██║██║ █╗ ██║██║   ██║
@@ -9,32 +9,41 @@
 ╚══════╝╚═════╝  ╚══╝╚══╝ ╚═╝   ╚═╝
 ```
 
+## 🟩 quickstart
+
+```text
+$ open https://ldwit.com
+$ cd featured_projects/
+$ ssh ldwit@socials
+```
+
+- 🌐 Portfolio: https://ldwit.com  
+- 📄 Resume / Contact: https://ldwit.com/contact  
+- 📍 Dallas–Fort Worth, TX • Open to remote/hybrid  
+
+---
+
 ## 🟩 whoami
 
-Passionate, curious, proactive IT professional with a comprehensive skill set in IT support.  
-A proven track record in client support, proficient in utilizing existing documentation for issue  
-resolution and complimentary customer service skills. Adept at conveying technical information,  
-providing leadership, and contributing to a secure computing environment.
+IT support + identity-focused builder shipping practical security + cloud projects.  
+I like clean documentation, calm troubleshooting, and making systems safer by default.
 
 ---
 
 ## 🟩 systemctl status me
 
-```
-● ldwit.service - IT Support Specialist
+```text
+● ldwit.service - IT Support Specialist (Identity + Cloud Security track)
      Loaded: loaded (enabled)
      Active: active (running)
-     Main PID: 001 (ldwit)
-     Tasks: Learning, Building, Troubleshooting
+     Tasks: Troubleshooting, Hardening, Automating, Documenting
      Memory: Improving daily
      CPU: Focused
+     Logs: Clear comms
 ```
 
-- 🌍 Location: Aubrey, TX  
-- 🖥️ Portfolio: https://www.ldwit.com  
-- ✉️ Email: laterral.williams@ldwit.com  
-- 🧠 Studying: Linux (RHEL 9)  
-- 🔐 Interests: Cloud Security, IAM, Linux, Automation  
+- 🧠 Currently learning: Linux (RHEL 9), security fundamentals, automation  
+- 🔐 Interests: IAM (Entra ID / AD), Cloud Security (AWS), Linux, Documentation  
 
 ---
 
@@ -49,71 +58,33 @@ providing leadership, and contributing to a secure computing environment.
 
 ## 🟩 ls tech_stack/
 
-![Stack](https://skillicons.dev/icons?i=linux,bash,redhat,ubuntu,debian,aws,gcp,azure,py,js,ts,react,git,github,vscode)
+![Stack](https://skillicons.dev/icons?i=linux,bash,aws,azure,py,react,js,ts,git,github,vscode&theme=dark)
+
+- Identity: Entra ID • Active Directory • MFA • Intune  
+- Cloud: AWS (security-minded builds)  
+- ITSM: ServiceNow  
 
 ---
 
-## 🟩 ./github_stats.sh
+## 🟩 cd featured_projects/
 
-```
->> Fetching GitHub activity...
------------------------------------------
- Commits:                ACTIVE
- Repositories:           MAINTAINED
- Learning Queue:         EVER-GROWING
- Documentation Quality:  HIGH
- Break/Fix Energy:       PEAK LEVELS
------------------------------------------
- Status: OK
-```
+- [`./ethical-hacking-capstone`](https://github.com/ldwit/ethical-hacking-capstone)  
+  → Hands-on capstone with structured writeups and findings (lab-based).
+
+- [`./powerbi-security-dashboard`](https://github.com/ldwit/powerbi-security-dashboard)  
+  → IAM / security visibility dashboard work (reporting + signals).
+
+- [`./PenTesting-Agreement-ParoCyber_Public-Template`](https://github.com/ldwit/PenTesting-Agreement-ParoCyber_Public-Template)  
+  → Beginner-friendly penetration testing agreement template + breakdown.
 
 ---
 
-## 🟩 achievements --all
+## 🟩 tail -f now_shipping.log
 
-```
-[✓] LongTimeUser       - Village Elder  
-[✓] Experience         - Expert Dev  
-[✓] Commits            - High Committer  
-[✓] Repositories       - Middle Repo Creator  
-```
-
----
-
-## 🟩 cd past_projects/
-
-- [`./GameDayNotificationApp`](https://github.com/ldwit/GameDayNotificationApp)  
-  → Real-time NBA/NFL notifications (AWS + Python)
-
-- [`./GameDayScheduleAPI`](https://github.com/ldwit/GameDayScheduleAPI)  
-  → Sports scheduling API
-
-- [`./NFLDataLake`](https://github.com/ldwit/NFLDataLake)  
-  → NFL analytics pipeline (S3 + Glue + Athena)
-
-- [`./WeatherDashboardDemo`](https://github.com/ldwit/WeatherDashboardDemo)  
-  → Weather API dashboard app
-  
----
-
-## 🟩 tail -f learning.log
-
-```
-• Linux (RHEL 9, RHCSA labs)
-• Cloud Security & Identity Access Management
-• Ansible & automation basics
-```
-
----
-
-## 🟩 cat goals_2026.txt
-
-```
-✔ Earn RHCE  
-✔ Build 5 new cloud projects  
-✔ Publish more breakdowns on Dev.to  
-✔ Expand portfolio site and documentation  
-✔ Contribute to open-source doc improvements  
+```text
+• Building recruiter-friendly portfolio projects (IAM + Cloud Security)
+• Writing beginner-friendly walkthroughs on Dev.to
+• Improving documentation + consistency across LDWIT.com and GitHub
 ```
 
 ---
