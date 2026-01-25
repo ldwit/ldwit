@@ -33,7 +33,7 @@ I like clean documentation, calm troubleshooting, and making systems safer by de
 ## 🟩 systemctl status me
 
 ```text
-● ldwit.service - IT Support Specialist (Identity + Cloud Security track)
+● ldwit.service - IT Support Specialist (Identity + Cloud + Security track)
      Loaded: loaded (enabled)
      Active: active (running)
      Tasks: Troubleshooting, Hardening, Automating, Documenting
