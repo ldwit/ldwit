@@ -25,8 +25,8 @@ $ ssh ldwit@socials
 
 ## 🟩 whoami
 
-IT support + identity-focused builder shipping practical security + cloud projects.  
-I like clean documentation, calm troubleshooting, and making systems safer by default.
+IT Support + Identity, Cloud, Security Projects.  
+I enjoy documentation, troubleshooting, and learning to make systems safer by default.
 
 ---
 
@@ -43,7 +43,7 @@ I like clean documentation, calm troubleshooting, and making systems safer by de
 ```
 
 - 🧠 Currently learning: Linux (RHEL 9), security fundamentals, automation  
-- 🔐 Interests: IAM (Entra ID / AD), Cloud Security (AWS), Linux, Documentation  
+- 🔐 Interests: IAM (Entra ID / AD), Cloud Security (AWS), Linux, DevOps  
 
 ---
 
@@ -82,7 +82,7 @@ I like clean documentation, calm troubleshooting, and making systems safer by de
 ## 🟩 tail -f now_shipping.log
 
 ```text
-• Building recruiter-friendly portfolio projects (IAM + Cloud Security)
+• Building beginner-friendly portfolio projects (IAM + Cloud + Security)
 • Writing beginner-friendly walkthroughs on Dev.to
 • Improving documentation + consistency across LDWIT.com and GitHub
 ```
